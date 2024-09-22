@@ -30,4 +30,4 @@ ID: 2000000145, Название: Калым Удмуртия
 ID: 2000000143, Название: Калым Удмуртия
 ID: 2000000142, Название: Калым Ижевск
 ID: 2000000138, Название: Шабашка - Работа - Калым -'''
-access_token_andr = 'vk1.a.XMD-M2R58rKfFFDP4vh5DTubQpKaLvBI4DnZmPMewe1FTO3ScGZ1O9BI3Hb4lFwz5NAli6w7YCgcKXWfsD11HZEDPBdOMgAYbRms1hFiAWJ7bhCz3Ilp2Sxhl7n7AogIs__agTxF3DwpPXNl6uBy8iMmqmudU2xOL4hL5xBg8mQvb9Xm7N7SeShsLYJGgXzks4OkSR9_uHhL0bmzh9Dnxg'
+access_token_andr = 'vk1.a.2Kqv_KsSLVGA5Dnund9V1H3-vWszSZ7gWlnCuT4Gd-WGdy7YEZNwTgdUicf9ucP2WYS0oDiNBjO5rFlrj4xJi2arfuB0T10UrwTfKSKj-045Tq8zqELDsaAKaWqoDTtQjzbyQXX4m5HzzO1ye28kSGECHVAbpE7D6uBtzBjFu1-cRoY110iJ8rSdWNUxhOfU8a9CN8x0oXymQg_SoPx1ig'
