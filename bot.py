@@ -18,7 +18,7 @@ vk1 = vk_session1.get_api()
 longpoll = VkBotLongPoll(vk_session1, GROUP_ID)
 
 # Функция для отправки сообщений с задержкой и обработкой капчи
-def send_message(message, delay=4):
+def send_message(message, delay=5):
     for group_id in GROUP_IDS_andr:
         vk.messages.send(
             peer_id=group_id,
