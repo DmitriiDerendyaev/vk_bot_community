@@ -69,6 +69,6 @@ def main():
         time.sleep(5)  # Задержка при ошибке подключения
         main()
 
-
+'f'
 if __name__ == "__main__":
     main()
