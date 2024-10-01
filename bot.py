@@ -50,7 +50,6 @@ def send_message(message, user_id, delay=2):
         logging.info(f"Сообщение отправлено в беседу {group_id}: {message}")
         time.sleep(delay)  # Задержка между отправкой сообщений
 
-
 # Основная функция работы бота
 def main():
     logging.info("Бот запущен и ожидает сообщений...")
